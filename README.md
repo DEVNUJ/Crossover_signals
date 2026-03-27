@@ -91,5 +91,5 @@ README.md            # Project documentation
 
 ## Author
 
-Made by [Your Name](https://github.com/YOUR_USERNAME)  
+Made by [Anuj Paudel (https://github.com/DEVNUJ)]
 Feel free to fork, use, or suggest improvements!
